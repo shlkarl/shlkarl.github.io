@@ -5,7 +5,7 @@
 Продукт представляет собой встраиваемую электронную платформу для «умной» одежды, объединяющую функции локального подогрева, световой индикации, встроенного питания внешних устройств и управления режимами работы.
 Решение предназначено для интеграции в повседневную, спортивную, туристическую и специализированную одежду с целью повышения комфорта, безопасности и функциональности изделия.
 
-<img width="402" height="447" alt="image" src="https://github.com/user-attachments/assets/7ce56755-f56b-445e-8254-0383f535798d" /> <img width="345" height="646" alt="image" src="https://github.com/user-attachments/assets/11353b57-ba59-4015-b916-24ddec8d6eba" />
+<img width="402" height="647" alt="image" src="https://github.com/user-attachments/assets/7ce56755-f56b-445e-8254-0383f535798d" /> <img width="345" height="646" alt="image" src="https://github.com/user-attachments/assets/11353b57-ba59-4015-b916-24ddec8d6eba" />
 
 
 <img width="144" height="101" alt="image" src="https://github.com/user-attachments/assets/468d4cd5-c2eb-4b56-8834-b62e98919da2" />     ____________________________________________________________________________________   <img width="161" height="74" alt="image" src="https://github.com/user-attachments/assets/5d70bea8-45a2-4529-863a-f09fe756c7b0" />
